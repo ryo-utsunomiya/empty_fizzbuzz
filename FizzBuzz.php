@@ -5,7 +5,7 @@ namespace Acme;
 class FizzBuzz
 {
     /**
-     * @param $n
+     * @param int $n
      * @return string
      */
     public function fizzbuzz($n)
